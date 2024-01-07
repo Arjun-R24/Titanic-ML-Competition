@@ -1,1 +1,3 @@
 # Titanic-ML-Competition
+
+An old project I worked on with a team for the Kaggle Titanic Machine Learning Competition. The goal of the project was to leverage data science, machine learning, and deep learning models to predict which passengers survived the Titanic shipwreck. Leveraged various ML models and algorithms such as random forest, support vector machines, grid search hyper parameter optimization, neural networks, gradient boosted machines (LightGBM), logistic regression, and ensembling techniques (weighted averaging, hard and soft voting). Utilized data science and machine learning libraries and frameworks like Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras.
